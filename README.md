@@ -17,7 +17,7 @@ A compiled collection of publicly available test papers, including previous year
 | [28 Shift 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2025-J-28s1-fixed.zip)                                             | [28 Shift 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2025-J-28s1-real.zip)                                            |
 | [28 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2025-J-28s2-fixed.zip)                                             | [28 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2025-J-28s2-real.zip)                                            |
 | [29 Shift 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2025-J-29s1-fixed.zip)                                             | [29 Shift 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2025-J-29s1-real.zip)                                            |
-| [29 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/reup2025-J-29s2-fixed.zip)                                             | [29 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/ruep2025-J-29s2-real.zip)                                            |
+| [29 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/reup2025-J-29s2-fixed.zip)                                             | [29 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/reup2025-J-29s2-real.zip)                                            |
 
 <details>
   <summary><h2> Changes ⚠️ Includes questions ⚠️ </h2></summary>
@@ -57,6 +57,20 @@ A compiled collection of publicly available test papers, including previous year
 
   Corrected quesiton
   ![Corrected question](https://github.com/QwertzG/Test/blob/main/2025-J-29s1-fixed.png)
+
+   ### ➤ 29 Shift 2
+  Real question (Dropped)
+  ![Real question](https://github.com/QwertzG/Test/blob/main/2025-J-29s2-real-10.png)
+
+  Corrected quesiton
+  ![Corrected question](https://github.com/QwertzG/Test/blob/main/2025-J-29s2-fixed-10.png)
+
+
+  Real question (Dropped)
+  ![Real question](https://github.com/QwertzG/Test/blob/main/2025-J-29s2-real-43.png)
+
+  Corrected quesiton
+  ![Corrected question](https://github.com/QwertzG/Test/blob/main/2025-J-29s2-fixed-43.png)
 </details>
 
 | April (not out yet sorry 😔)                                                  |                                                       |
