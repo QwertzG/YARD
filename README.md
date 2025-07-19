@@ -86,6 +86,20 @@ A compiled collection of publicly available test papers, including previous year
 | 7 Shift 2                                              |                                                       |
 | 8 Shift 2                                              |                                                       |
 
+## ➤ JEE Advanced
+| Fixed<br>(Questions corrected, advised to attempt) | Real<br>(Actual paper with bonuses/dropped questions) |
+| -------------------------------------------------- | ----------------------------------------------------- |
+| [2025 Paper 1](https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2025-1.zip)                                       |                                                       |
+| 2025 Paper 2                                       | [2025 Paper 2](https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2025-P2.zip)                                          |
+|                                                    |                                                       |
+| [2024 Paper 1](https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2024-P1.zip)                                       |                                                       |
+| [2024 Paper 2](https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2024-P2.zip)                                       |                                                       |
+|                                                    |                                                       |
+| 2023 Paper 1                                       |                                                       |
+| 2023 Paper 2                                       |                                                       |
+|                                                    |                                                       |
+| 2022 Paper 1                                       |                                                       |
+| 2022 Paper 2                                       |                                                       |
 
 
 
