@@ -1,7 +1,7 @@
 # JEE CBT Megathread
 A compiled collection of publicly available test papers, including previous year JEE papers, complete with answer keys for practice. To attempt any paper, just click the link.
 <br>Made with the help of [pdf2cbt](https://pdf2cbt.vercel.app/).
-<br>Report any corrections to me on reddit [u/TisMeQwertz](https://www.reddit.com/user/TisMeQwertz/).
+<br>Report any errors to me on reddit [u/TisMeQwertz](https://www.reddit.com/user/TisMeQwertz/).
 ## ➤ JEE Mains
 
 ### ➤ 2025
@@ -87,19 +87,35 @@ A compiled collection of publicly available test papers, including previous year
 | 8 Shift 2                                              |                                                       |
 
 ## ➤ JEE Advanced
-| Fixed<br>(Questions corrected, advised to attempt) | Real<br>(Actual paper with bonuses/dropped questions) |
-| -------------------------------------------------- | ----------------------------------------------------- |
-| [2025 Paper 1](https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2025-1.zip)                                       |                                                       |
-| 2025 Paper 2                                       | [2025 Paper 2](https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2025-P2.zip)                                          |
-|                                                    |                                                       |
-| [2024 Paper 1](https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2024-P1.zip)                                       |                                                       |
-| [2024 Paper 2](https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2024-P2.zip)                                       |                                                       |
-|                                                    |                                                       |
-| 2023 Paper 1                                       |                                                       |
-| 2023 Paper 2                                       |                                                       |
-|                                                    |                                                       |
-| 2022 Paper 1                                       |                                                       |
-| 2022 Paper 2                                       |                                                       |
+| Fixed<br>(Questions corrected, advised to attempt)                                                                                                                                                                                                                                   | Real<br>(Actual paper with bonuses/dropped questions)                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [2025 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2025-1.zip)<br>[2025 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2025-P2-fixed.zip)                                                                                                                              | <br>[2025 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2025-P2.zip)                                                                                                                                       |
+| [2024 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2024-P1.zip)<br>[2024 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2024-P2.zip) |                                                                                                                                                                                                                                                                                    |
+| [2023 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2023-1.zip)<br>2023 Paper 2                                                                                                                              | <br>[2023 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2023-2.zip)                                                                                                                                        |
+| 2022 Paper 1<br>2022 Paper 2                                                                                                                                                                                                                                                         | [2022 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2022-1.zip)<br>[2022 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2022-2.zip) |
 
+<details>
+  <summary><h2> Changes ⚠️ Includes questions ⚠️ </h2></summary>
+  
+  ### ➤ 2025 Paper 2
+  Real question (Dropped)
+  ![Real question](https://github.com/QwertzG/Test/blob/main/JA-PYQ-2025-P2-real.png)
 
+  Corrected quesiton
+  ![Corrected question](https://github.com/QwertzG/Test/blob/main/JA-PYQ-2025-P2-fixed.png)
+</details>
+
+## ➤ Miscellaneous Tests
+| IITK Sample Papers |
+| ------------------ |
+| [2025](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/2025+iitk+sample+paper.zip)               |
+| [2024](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/2024+iitk+sample+paper.zip)               |
+
+| AYJRs                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Advanced                     | Mains                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 2025 Paper 1<br>2025 Paper 2 | [2025 January Morning](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/AYJR-JM25-J1.zip)<br>[2025 January Evening](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/AYJR-JM25-J2.zip)<br><br>[2025 April Morning](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/AYJR-JM25-A1.zip)<br>[2025 April Evening](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/AYJR-JM25-A2.zip) |
+| 2024 Paper 1<br>2024 Paper 2 | 2024 January Morning<br>2024 January Evening<br><br>2024 April Morning<br>2024 April Evening                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 2023 Paper 1<br>2023 Paper 2 | ~~2023 January Morning~~<br>2023 January Evening<br><br>2023 April Morning<br>2023 April Evening                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 2022 Paper 1<br>2022 Paper 2 | 2022 January Morning<br>~~2022 January Evening~~<br><br>2022 April Morning<br>2022 April Evening                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
