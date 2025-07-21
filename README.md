@@ -1,5 +1,5 @@
 # JEE CBT Megathread
-A compiled collection of publicly available test papers, including previous year JEE papers, complete with answer keys for practice. To attempt any paper, just click the link.
+A compiled collection of publicly available test papers, including previous year JEE papers, complete with answer keys in CBT format. To attempt any paper, just click the link.
 <br>Made with the help of [pdf2cbt](https://pdf2cbt.vercel.app/).
 <br>Report any errors to me on reddit [u/TisMeQwertz](https://www.reddit.com/user/TisMeQwertz/).
 ## ➤ JEE Mains
