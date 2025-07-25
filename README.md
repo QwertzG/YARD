@@ -1,4 +1,4 @@
-# JEE CBT Megathread
+# Yet Another Resource Dump (YARD)
 A compiled collection of publicly available test papers, including previous year JEE papers, complete with answer keys in CBT format. To attempt any paper, just click the link.
 <br>Will try my best to keep it updated as much as i can
 <br>Made with the help of [pdf2cbt](https://pdf2cbt.vercel.app/).
