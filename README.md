@@ -93,7 +93,7 @@ A compiled collection of publicly available test papers, including previous year
 | [2025 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2025-1.zip)<br>[2025 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2025-P2-fixed.zip) | <br>[2025 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2025-P2.zip)|
 | [2024 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2024-P1.zip)<br>[2024 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2024-P2.zip)||
 | [2023 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2023-1.zip)<br>2023 Paper 2                                                                                                                                   | <br>[2023 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2023-2.zip)                                                                                                                                        |
-| 2022 Paper 1<br>2022 Paper 2                                                                                                                                                                                                                                                              | [2022 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2022-1.zip)<br>[2022 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2022-2.zip) |
+| [2022 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2022-1-fixed.zip)<br>2022 Paper 2                                                                                                                                                                                                                                                              | [2022 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2022-1.zip)<br>[2022 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2022-2.zip) |
 | [2021 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2021-P1.zip)<br>[2021 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2021-P2.zip)      |                                                                                                                                                                                                                                                                                    |
 | [2020 Paper 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2020-P1.zip)<br>[2020 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2020-P2-fixed.zip)                                                                                                                                  | <br>[2020 Paper 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/pdf2cbt-uploads/blob/main/JA-PYQ-2020-P2.zip)                                                                                                                                       |
 
@@ -107,8 +107,14 @@ A compiled collection of publicly available test papers, including previous year
   Corrected quesiton
   ![Corrected question](https://github.com/QwertzG/Test/blob/main/JA-PYQ-2025-P2-fixed.png)
 
+### ➤ 2022 Paper 1
+Question 33 of physics was dropped which has an answer in the fixed version with no change in the question itself.
+
+### ➤ 2022 Paper 2
+Question 32 and 35 of physics were dropped which have an answer in the fixed version with no change in the question itself.
+
   ### ➤ 2020 Paper 2
-Question 1 and 6 of physics were given bonus which have an answer in the fixed version with no change in the questions itself.
+Questions 1 and 6 of physics were dropped which have an answer in the fixed version with no change in the questions itself.
 
 </details>
 
