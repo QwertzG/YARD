@@ -106,6 +106,10 @@ A compiled collection of publicly available test papers, including previous year
 
   Corrected quesiton
   ![Corrected question](https://github.com/QwertzG/Test/blob/main/JA-PYQ-2025-P2-fixed.png)
+
+  ### ➤ 2020 Paper 2
+Question 1 and 6 of physics were given bonus which have an answer in the fixed version with no change in the questions itself.
+
 </details>
 
 ## ➤ Miscellaneous Tests
