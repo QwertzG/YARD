@@ -100,10 +100,10 @@ A compiled collection of publicly available test papers, including previous year
 Question 33 of physics was dropped which has an answer in the fixed version with no change in the question itself.
 
 ### ➤ 2022 Paper 2
-Questions 32 and 35 of physics were dropped which have an answer in the fixed version with no change in the question itself.
+Questions 32 and 35 of physics were dropped which have an answer in the fixed version with no change in the questions themselves.
 
   ### ➤ 2020 Paper 2
-Questions 1 and 6 of physics were dropped which have an answer in the fixed version with no change in the questions itself.
+Questions 1 and 6 of physics were dropped which have an answer in the fixed version with no change in the questions themselves.
 
 </details>
 
