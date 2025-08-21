@@ -74,6 +74,19 @@ A compiled collection of publicly available test papers, including previous year
   ![Corrected question](https://github.com/QwertzG/Test/blob/main/2025-J-29s2-fixed-43.png)
 </details>
 
+### ➤ 2024
+| January | April                                                                                                                        |
+|---------|------------------------------------------------------------------------------------------------------------------------------|
+|         | [4 Shift 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2024-A-4s1.zip) |
+|         | [4 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2024-A-4s2.zip) |
+|         | [5 Shift 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2024-A-5s1.zip) |
+|         | [5 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2024-A-5s2.zip) |
+|         | [6 Shift 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2024-A-6s1.zip) |
+|         | [6 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2024-A-6s2.zip) |
+|         | [8 Shift 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2024-A-8s1.zip) |
+|         | [8 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2024-A-8s2.zip) |
+|         | [9 Shift 1](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2024-A-9s1.zip) |
+|         | [9 Shift 2](https://pdf2cbt.vercel.app/cbt/interface/?zipurl=https://github.com/QwertzG/JEEMain-UA/blob/main/2024-A-9s2.zip) |
 
 ## ➤ JEE Advanced
 | Fixed<br>(Questions corrected, advised to attempt)                                                                                                                                                                                                                                             | Real<br>(Actual paper with bonuses/dropped questions)                                                                                                                                                                                                                              |
