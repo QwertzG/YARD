@@ -3,6 +3,8 @@ A compiled collection of publicly available test papers, including previous year
 <br>Will try my best to keep it updated as much as i can.
 <br>Made with the help of [pdf2cbt](https://pdf2cbt.vercel.app/).
 <br>Report any errors to me on reddit [u/TisMeQwertz](https://www.reddit.com/user/TisMeQwertz/) (also contact me if you wish to contribute, i would really appreciate it).
+
+New repository: [YARD+](https://github.com/QwertzG/YARD-plus)
 ## ➤ JEE Mains
 
 ### ➤ 2025
